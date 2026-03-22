@@ -1,2 +1,2 @@
-# NLP_tweet-sentiment-movie-reviews-
-Backend Deploy Code for Hugging Face
+# NLP_tweet-sentiment-movie-reviews
+Frontend Deploy Code for Hugging Face
